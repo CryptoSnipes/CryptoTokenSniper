@@ -19,7 +19,7 @@ Replace "YOUR_PRIVATE_KEY" by your wallet private key in your config file.
 ✅ 0% FEES! (I do NOT take a commission and never will)
 
 
-![CTSV1](https://github.com/user-attachments/assets/b849be49-b77a-4592-ba72-69490856cab4)
+![CTSV1](https://github.com/user-attachments/assets/c8b8d4f8-3f19-4a9b-acbf-d16af1b578d0)
 
 
 
