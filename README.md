@@ -10,7 +10,7 @@ Replace "YOUR_PRIVATE_KEY" by your wallet private key in your config file.
 
 # FEATURES
 
-✅ Automatic AI smart calculation to decide how much money to spend on one token (can range from 5$ to 20$ for each token)
+✅ Automatic AI smart calculation to decide how much money to spend on one token (can range from 5$ to 20$ for each token but you will never lose more than 5% of the invested amount)
 
 ✅ Automatic AI smart take-profit & stop-loss
 
